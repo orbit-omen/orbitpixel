@@ -115,3 +115,6 @@ cargo build --release
 ## License
 
 MIT License — see [LICENSE](LICENSE).
+
+
+This Thing Does Not Work so well, or it's fully broken, i am trying fixing it.   :)
